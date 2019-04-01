@@ -1,4 +1,5 @@
 .idea
 target
 
-src/test/java/com/isa/user/userTest.java
+src/test/java/com/isa/user/UserTest.java
+src/test/java/com/isa/sorter/MapSorterTest.java
